@@ -26,7 +26,7 @@ This is the repository for submitting your GDSC NIT Rourkela induction task prov
     cd GDSC-Induction-Task
     ```
 
-4. Create a folder with your name inside the repository. Inside this folder, create a README.md file and a Projects folder which will contain the induction tasks:
+4. Create a folder with your name inside the repository. Inside this folder, create a README.md file which will contaain all the details of the projects you are submitting and a Projects folder which will contain the induction tasks:
 
     ```bash
     mkdir -p <your_name>/Projects
