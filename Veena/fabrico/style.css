@@ -252,10 +252,11 @@ body{
     }
   }
   .column-2 {
-    display: flex;
+    display:flex;
     line-height: normal;
     width: 100%;
     margin-left: 20px;
+    flex-direction: row;
   }
   @media (max-width: 1080px) {
     .column-2 {
@@ -263,17 +264,15 @@ body{
     }
   }
   
-  .imga {
+  
+
+  .imga2{
     object-fit: auto;
     object-position: center;
     width: 100%;
   }
-  @media (max-width: 991px) {
-    .imga {
-      max-width: 100%;
-      margin-top: 40px;
-    }
-  }
+
+  
   .shop {
     background-color: #4a3e48;
     width: 100%;
